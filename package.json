@@ -1,0 +1,16 @@
+{
+  "name": "spacex",
+  "version": "1.0.0",
+  "description": "Тестовое задание Subtotal",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "andrewzhivolup",
+  "license": "ISC",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+
+  }
+}
