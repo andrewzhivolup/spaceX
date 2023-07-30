@@ -1,0 +1,21 @@
+.Mission {
+  width: 100vh;
+  border: 3px solid var(--primary-color);
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+
+  img {
+    width: 50%;
+    height: 50%;
+    border: 3px solid var(--primary-color);
+    border-radius: 10px;
+    margin: auto;
+  }
+
+  p {
+    text-align: justify;
+  }
+}

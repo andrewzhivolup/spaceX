@@ -1,0 +1,13 @@
+.Header {
+  //width: 100vh;
+  height: 120px;
+  background: var(--bg-color);
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  justify-content: center;
+  .svg {
+    width: 100%;
+    height: 100%
+  }
+}
