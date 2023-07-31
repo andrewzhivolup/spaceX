@@ -4,3 +4,4 @@ webpack.config.js
 **.test.js
 **.test.jsx
 jest.config.js
+__mocks__
