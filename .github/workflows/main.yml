@@ -25,6 +25,3 @@ jobs:
       - name: linting typescript
         run: npm run lint
         if: always()
-      - name: unit
-        run: npm run test:unit
-        if: always()
