@@ -23,5 +23,8 @@ jobs:
         run: npm run build:prod
         if: always()
       - name: linting typescript
-        run: npm run lint:ts
+        run: npm run lint
+        if: always()
+      - name: unit
+        run: npm run test:unit
         if: always()
