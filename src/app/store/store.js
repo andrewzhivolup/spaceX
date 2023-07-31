@@ -1,5 +1,5 @@
 import {configureStore} from '@reduxjs/toolkit';
-import {spaceXApi} from '../shared/api/spaceXApi';
+import {spaceXApi} from '../../shared/api/spaceXApi';
 
 const store = configureStore(
     {

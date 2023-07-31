@@ -1,3 +1,6 @@
 /dist
 /node_modules
 webpack.config.js
+**.test.js
+**.test.jsx
+jest.config.js
